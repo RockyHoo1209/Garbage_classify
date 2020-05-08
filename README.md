@@ -2,7 +2,7 @@
 
 一共六类垃圾
 
-![](https://github.com/RockyHoo1209/Garbage_classify/tree/master/README.assets/image-20200309094158916.png)
+![img](https://github.com/RockyHoo1209/Garbage_classify/tree/master/README.assets/image-20200309094158916.png)
 
 ### 项目文件
 
@@ -32,11 +32,11 @@
 
 /home:
 
-![](https://github.com/RockyHoo1209/Garbage_classify/tree/master/README.assets/image-20200508191411622.png.png)
+![img](https://github.com/RockyHoo1209/Garbage_classify/tree/master/README.assets/image-20200508191411622.png.png)
 
 /start:
 
-![](https://github.com/RockyHoo1209/Garbage_classify/tree/master/README.assets/image-20200508192621305.png)
+![img](https://github.com/RockyHoo1209/Garbage_classify/tree/master/README.assets/image-20200508192621305.png)
 
 ### 参数设置
 
