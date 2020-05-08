@@ -2,7 +2,7 @@
 
 一共六类垃圾
 
-![image-20200309094158916](C:\Users\Rocky HOO\AppData\Roaming\Typora\typora-user-images\image-20200309094158916.png)
+![](README.assets/image-20200309094158916.png)
 
 ### 项目文件
 
@@ -32,11 +32,11 @@
 
 /home:
 
-![image-20200508191411622](C:\Users\Rocky HOO\AppData\Roaming\Typora\typora-user-images\image-20200508191411622.png)
+![](README.assets/image-20200309094158916.png)
 
 /start:
 
-![image-20200508192621305](C:\Users\Rocky HOO\AppData\Roaming\Typora\typora-user-images\image-20200508192621305.png)
+![](README.assets/image-20200508192621305.png)
 
 ### 参数设置
 
@@ -56,10 +56,6 @@
 安装好环境后,直接运行`CallFrame.py`
 
 若要重新训练模型，则运行`inception_version_train.py`
-
-### 测试结果：
-
-![](C:\Users\Rocky HOO\Desktop\ANN\CNN-垃圾分类\photo\结果展示.PNG)
 
 ---
 
